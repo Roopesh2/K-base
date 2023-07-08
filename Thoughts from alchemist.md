@@ -1,0 +1,3 @@
+- every heart knows the destiny of its owner. They rarely tell it to people. Because most people don't pursue it.
+    - but is our heart getting more poised by modern media? Is that misguiding us. Symptom: getting distracted, chatter, multiple mohams
+    - 

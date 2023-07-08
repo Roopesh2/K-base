@@ -1,0 +1,83 @@
+- **Pensive**: engaged in, involving, or reflecting deep or serious thought
+- **Melancholy**: feeling of pensive sadness, typically with no obvious cause.
+- **Anhedonia**: inability to feel pleasure in normally pleasurable activities
+- **Pacifier**: nipple substitute
+- **Amnesia**: memory loss
+- **Yearning**: feeling of intense longing for something.
+- **Pervert**: corrupt or distort. Usually sexual behaviour
+- **Venture**: risky or daring journey
+- **Feeble**: lacking strength of character
+- **Torment**: severe physical or mental suffering
+- **Aberrant**: departure from normal/standard
+- **Derpy**: foolish/stupid
+- **Meticulous**: very careful, precise / showing great attention
+- **Veracity**: conformity to facts / accuracy / truthfulness
+- **Smother**: kill (someone) by covering their nose and mouth so that they suffocate / suffocate
+- **Intelligible:** understandable
+- **Catharsis:** releasing something that provides relief from repressive thoughts & feelings
+- **Prototypical**: first, original or typical form of something
+- **Entitlement**: the fact of having right to something
+- **Temperament**: a person’s nature, something which permanently affects their behaviour.
+- **Masquerade**: showing a false figure
+- **Demeanor**: outward behaviour
+- **Hasty**: doing something in excessive speed / urgency
+- **Hasten** (v): to do things quickly
+- **Superficial**: existing in surface
+- **Demise**: a death
+- **Herald:** a sign that something is about ott happen
+- **Boisterous**: noisy, energetic
+- **Introspection**: examining of one's own emotions & thought processes
+- **Tidbit**: a small piece of something tasty / interesting information
+- **Pretense**: to fake something/ make something that is not the case
+- **Facade**: front part/ mask
+- **Stint**: limited supply/effort
+- **Purgative**: laxative
+- **Mischief**: playful misbehaviour
+- **Reconciliation:** restoration of old friendship, harmonizing
+- **Rapport**: close harmonious friendship
+- **Appalled**: horrified
+- **Distraught**: deeply upset, agitated
+- **Frantically**: in a distraught way oving to anxiety, fear, …
+- **Flattering**: lavish insincere praising
+- **Coax**: gently persuade
+- **Cajoling**: persuade to do something by sustained coaxing or flattering
+- **Trifling**: unimportant/trivial
+- **Fiendish**: extremely cruel unpleasant, devilish
+- **Obstrusive**: noticable in unwelcome/obtrusive way
+- **Slunk**: move smoothly and quietly
+- **Benignity**: kindness/tolerence
+- **Feeble**: weak, crazy, fragile
+- **Totter**: move in feeble/unsteady way
+- **Disdain**: something considered to be unworthy in one's consideration
+- **Dictum**: formal pronouncement from an authoritative source
+- **Discern**: recognise, perceive
+- **Paramount**: most important
+- **Awry**: not right/appropriate
+- **Ephemeral**: lasting for a very short time
+- **Banality**: something that lacks originality, freshness, or novelty
+- **Chauffeur**: person employed to drive a private or hired car
+- **Tranquility**:  calmness
+- **Turmoil**: state of great disturbance & confusion
+- **indulge**: allowing to enjoy pleasure
+- **Conundrum**: confusing and difficult problem
+- **Hegemony**: leadership/dominance
+- **Veteran**: person who has served in military / people who has long experience in a field
+- **Intimidate**: frighten/overawe
+- **Awe**: feeling of reverential respect mixed with fear or wonder
+- **Endeavour**: attempt to achieve a (hard) goal // a try to do so
+- **Dichotomy**: division/contrast between two things that are or are represented as being opposite / entirely different 
+- **Archaic**: old fashioned
+- **Amass**: gather together in a group / accumulation of something over a time period
+- **Ensnare**: get caught in a trap
+- **Concoct**: make something by combining many ingredients often in a way that is original or not planned
+- **Undeterred**: persevering something even with setbacks / bad situation 
+- **Ransom**: a sum of money demanded or paid for the release of a captive
+- **Ream**: 480/500/516 pages
+- **Probationary**: relating to a process of testing or observing the character or abilities of a person who is new to something.
+- **Contemplate**: to think (deeply for long time) {eg: contemplating death}
+- **Sorcery**: use of (black) magic
+- **Hive**: a crowded place
+- **Retroactively**: with effect from a date in the past.
+- **Retrospective**: looking back on or dealing with past events or situations
+- **Oligarchy**: a small group of people having control of a country or organization.
+- 
