@@ -1,3 +1,5 @@
+Collection of TnD I from regular internet surfing
+
 - **Pensive**: engaged in, involving, or reflecting deep or serious thought
 - **Melancholy**: feeling of pensive sadness, typically with no obvious cause.
 - **Anhedonia**: inability to feel pleasure in normally pleasurable activities
