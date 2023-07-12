@@ -82,4 +82,28 @@ Collection of TnD I from regular internet surfing
 - **Retroactively**: with effect from a date in the past.
 - **Retrospective**: looking back on or dealing with past events or situations
 - **Oligarchy**: a small group of people having control of a country or organization.
-- 
+- **Nuzzle**: rub or push against gently with the nose and mouth.
+- **Vile**: extremely unpleasant.
+- **Grit**: firmness of mind or spirit.
+- **Rugged**: having a broken, rocky, and uneven surface. ; strongly made and capable of withstanding rough handling.
+- **Contrived**: created or arranged in a way that seems artificial and unrealistic.
+- **Oblong**: a rectangular object or flat figure with unequal adjacent sides.
+- **Plaque**: an ornamental tablet, typically of metal, porcelain, or wood, that is fixed to a wall or other surface. 
+- **frail**: weak and delicate.
+- **Meagreness**: lack of quantity or quality; inadequacy.
+- **Overall**: loose-fitting coat or one-piece garment worn over ordinary clothes
+- **Sanguine**: optimistic, especially in an apparently bad or difficult situation; blood-red
+- **Bluebottle**: blue fly with loud buzzing sound; or a jellyfish in Australia 
+- **Grime/Grimy**: dirt ingrained on the surface of something. 
+- **Vista**: pleasing view; mental view of a succession of remembered or anticipated events; a long, narrow view as between rows of trees or buildings, especially one closed by a building or other structure. 
+- **Shored up**: to support (something) or keep (something) from falling by placing something under or against it.
+- **balk/baulks**: roughly squared timber beam.
+
+
+
+
+
+
+
+
+
