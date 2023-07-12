@@ -82,6 +82,7 @@ Collection of TnD I from regular internet surfing
 - **Retroactively**: with effect from a date in the past.
 - **Retrospective**: looking back on or dealing with past events or situations
 - **Oligarchy**: a small group of people having control of a country or organization.
+
 - **Nuzzle**: rub or push against gently with the nose and mouth.
 - **Vile**: extremely unpleasant.
 - **Grit**: firmness of mind or spirit.
@@ -98,12 +99,70 @@ Collection of TnD I from regular internet surfing
 - **Vista**: pleasing view; mental view of a succession of remembered or anticipated events; a long, narrow view as between rows of trees or buildings, especially one closed by a building or other structure. 
 - **Shored up**: to support (something) or keep (something) from falling by placing something under or against it.
 - **balk/baulks**: roughly squared timber beam.
-
-
-
-
-
-
-
-
+- **corrugated**: shaped into a series of parallel ridges and grooves so as to give added rigidity and strength.
+- **Sagging**: sinking or bulging downwards.
+- **Straggle**: grow, spread, or be laid out in an irregular, untidy way; move along slowly so as to remain some distance behind something. 
+- **Rubble**: waste or rough fragments of stone, brick, concrete, etc., especially as the debris from the demolition of buildings.
+- **Sordid**: dirty or squalid.
+- **Tableaux**:  graphic description or representation.
+- **Ramification**: a subdivision of a complex structure or process; 
+- **Truncheons**: a short stout club used primarily by police officers
+- **Hunk**: a large piece of something without definite shape.
+- **alcove**: An arched opening (as in a wall).
+- **frowzy**: scruffy and neglected in appearance.
+- **Procure**: to obtain, especially with care or effort.
+- **furtively**: in a way that attempts to avoid notice or attention; secretively; secretly 
+- **Predicament**: a difficult, unpleasant, or embarrassing situation.
+- **strident**: loud and harsh. 
+- **booziness**: drunken. 
+- **Wallowing**: to roll about in something. 
+- **burrow**: make a hole or tunnel, typically for use as a dwelling.
+- **Prole**: working class.
+- **Oughter**: ought to
+- **ought**: indicate correctness/probability/duty
+- **Nebulous**: vague or ill-defined; in the form of a cloud or haze
+- **Freckle**: having small, pale brown spots on the skin
+- **Sash**: a long strip or loop of cloth worn over one shoulder or round the waist, especially as part of a uniform or official dress.
+- **Bigoted**: having strong, unreasonable beliefs and disliking other people who have different beliefs or a different way of life.
+- **Orthodox**: considered traditional, normal, and acceptable by most people.
+- **hush/hushed**: calm, quiet.
+- **Burly**: strong/heavily built
+- **Coarse**: rough or harsh.
+- **Formidable**: inspiring fear or respect.
+- **Disarming**: deprive of the power to hurt.
+- **Hideous**: extremely unpleasant.
+- **Bristle**: stand upright away from the skin.
+- **Squeak**: a short, high-pitched sound.
+- **Mingle**: (cause to) mix.
+- **Renegade**: having abandoned one's religious/cultural beliefs. 
+- **Backslider**: someone who lapses into previous undesirable patterns of behavior.
+- **Condemn**: sentence (someone) to a particular punishment.
+- **Condescending**: having or showing an attitude of patronizing superiority.
+- **Traitor**: person who betrays someone or something.
+- **Defiler**: a person or organization that causes pollution of the environment.
+- **Treachery**: betrayal of trust.
+- **Heresy/Heresies**: opinion that is opposed to a generally accepted belief.
+- **Paymaster**: an officer or agent whose duty it is to pay salaries or wages.
+- **Aureole**: light-colored
+- **Despicable**: deserving hatred and contempt.
+- **Senile**: having or showing the weaknesses or diseases of old age, especially a loss of mental faculties.
+- **Perch**: be situated above or on the edge of something.
+- **Perverse**: showing a deliberate and obstinate desire to behave in a way that is unreasonable or unacceptable.
+- **Plausible**: seeming reasonable or probable.
+- **Denounce**: publicly declare to be wrong or evil.
+- **hysterically**: unable to control emotions or behavior because you are very frightened, excited.
+- **lest**: for fear that.
+- **specious**: superficially plausible, but actually wrong.
+- **bleating**: the weak, wavering cry.
+- **borne**: past particle: bear
+- **Refute**: disprove
+- **Dupe**: trick 
+- **Saboteur**: person who deliberately damages or destroys things.
+- **Compendium**: a collection or set of similar items.
+- **Clandestinely**: in a secretive and illicit way.
+- **Quivering**: trembling or shaking with a slight rapid motion.
+- **Swine**:
+- **flung**:
+- **inexorably**:
+- **pretence**:
 
