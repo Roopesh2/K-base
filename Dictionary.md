@@ -60,7 +60,7 @@ Collection of TnD I from regular internet surfing
 - **Chauffeur**: person employed to drive a private or hired car
 - **Tranquility**:  calmness
 - **Turmoil**: state of great disturbance & confusion
-- **indulge**: allowing to enjoy pleasure
+- **Indulge**: allowing to enjoy pleasure
 - **Conundrum**: confusing and difficult problem
 - **Hegemony**: leadership/dominance
 - **Veteran**: person who has served in military / people who has long experience in a field
@@ -90,7 +90,7 @@ Collection of TnD I from regular internet surfing
 - **Contrived**: created or arranged in a way that seems artificial and unrealistic.
 - **Oblong**: a rectangular object or flat figure with unequal adjacent sides.
 - **Plaque**: an ornamental tablet, typically of metal, porcelain, or wood, that is fixed to a wall or other surface. 
-- **frail**: weak and delicate.
+- **Frail**: weak and delicate.
 - **Meagreness**: lack of quantity or quality; inadequacy.
 - **Overall**: loose-fitting coat or one-piece garment worn over ordinary clothes
 - **Sanguine**: optimistic, especially in an apparently bad or difficult situation; blood-red
@@ -98,8 +98,8 @@ Collection of TnD I from regular internet surfing
 - **Grime/Grimy**: dirt ingrained on the surface of something. 
 - **Vista**: pleasing view; mental view of a succession of remembered or anticipated events; a long, narrow view as between rows of trees or buildings, especially one closed by a building or other structure. 
 - **Shored up**: to support (something) or keep (something) from falling by placing something under or against it.
-- **balk/baulks**: roughly squared timber beam.
-- **corrugated**: shaped into a series of parallel ridges and grooves so as to give added rigidity and strength.
+- **Balk/Baulks**: roughly squared timber beam.
+- **Corrugated**: shaped into a series of parallel ridges and grooves so as to give added rigidity and strength.
 - **Sagging**: sinking or bulging downwards.
 - **Straggle**: grow, spread, or be laid out in an irregular, untidy way; move along slowly so as to remain some distance behind something. 
 - **Rubble**: waste or rough fragments of stone, brick, concrete, etc., especially as the debris from the demolition of buildings.
@@ -108,24 +108,24 @@ Collection of TnD I from regular internet surfing
 - **Ramification**: a subdivision of a complex structure or process; 
 - **Truncheons**: a short stout club used primarily by police officers
 - **Hunk**: a large piece of something without definite shape.
-- **alcove**: An arched opening (as in a wall).
-- **frowzy**: scruffy and neglected in appearance.
+- **Alcove**: An arched opening (as in a wall).
+- **Frowzy**: scruffy and neglected in appearance.
 - **Procure**: to obtain, especially with care or effort.
-- **furtively**: in a way that attempts to avoid notice or attention; secretively; secretly 
+- **Furtively**: in a way that attempts to avoid notice or attention; secretively; secretly 
 - **Predicament**: a difficult, unpleasant, or embarrassing situation.
-- **strident**: loud and harsh. 
-- **booziness**: drunken. 
+- **Strident**: loud and harsh. 
+- **Booziness**: drunken. 
 - **Wallowing**: to roll about in something. 
-- **burrow**: make a hole or tunnel, typically for use as a dwelling.
+- **Burrow**: make a hole or tunnel, typically for use as a dwelling.
 - **Prole**: working class.
 - **Oughter**: ought to
-- **ought**: indicate correctness/probability/duty
+- **Ought**: indicate correctness/probability/duty
 - **Nebulous**: vague or ill-defined; in the form of a cloud or haze
 - **Freckle**: having small, pale brown spots on the skin
 - **Sash**: a long strip or loop of cloth worn over one shoulder or round the waist, especially as part of a uniform or official dress.
 - **Bigoted**: having strong, unreasonable beliefs and disliking other people who have different beliefs or a different way of life.
 - **Orthodox**: considered traditional, normal, and acceptable by most people.
-- **hush/hushed**: calm, quiet.
+- **Hush/Hushed**: calm, quiet.
 - **Burly**: strong/heavily built
 - **Coarse**: rough or harsh.
 - **Formidable**: inspiring fear or respect.
@@ -141,7 +141,7 @@ Collection of TnD I from regular internet surfing
 - **Traitor**: person who betrays someone or something.
 - **Defiler**: a person or organization that causes pollution of the environment.
 - **Treachery**: betrayal of trust.
-- **Heresy/Heresies**: opinion that is opposed to a generally accepted belief.
+- **Heresy/Heresies&Heretic**: opinion that is opposed to a generally accepted belief.
 - **Paymaster**: an officer or agent whose duty it is to pay salaries or wages.
 - **Aureole**: light-colored
 - **Despicable**: deserving hatred and contempt.
@@ -150,19 +150,62 @@ Collection of TnD I from regular internet surfing
 - **Perverse**: showing a deliberate and obstinate desire to behave in a way that is unreasonable or unacceptable.
 - **Plausible**: seeming reasonable or probable.
 - **Denounce**: publicly declare to be wrong or evil.
-- **hysterically**: unable to control emotions or behavior because you are very frightened, excited.
-- **lest**: for fear that.
-- **specious**: superficially plausible, but actually wrong.
-- **bleating**: the weak, wavering cry.
-- **borne**: past particle: bear
+- **Hysterically**: unable to control emotions or behavior because you are very frightened, excited.
+- **Lest**: for fear that.
+- **Specious**: superficially plausible, but actually wrong.
+- **Bleating**: the weak, wavering cry.
+- **Borne**: past particle: bear
 - **Refute**: disprove
 - **Dupe**: trick 
 - **Saboteur**: person who deliberately damages or destroys things.
 - **Compendium**: a collection or set of similar items.
 - **Clandestinely**: in a secretive and illicit way.
 - **Quivering**: trembling or shaking with a slight rapid motion.
-- **Swine**:
-- **flung**:
-- **inexorably**:
-- **pretence**:
-
+- **Swine**: something that is very difficult or unpleasant to deal with.
+- **Flung**: throw or hurl forcefully.
+- **Inexorably**: in a way that is impossible to stop or prevent.
+- **Pretence**: a claim to have a particular skill or quality.
+- **Ecstasy**: an emotional or religious frenzy or trance-like state, originally one involving an experience of mystic self-transcendence.
+- **Vindictiveness**: a strong desire to get back at someone.
+- **Grimace**: an ugly, twisted expression on a person's face, typically expressing disgust, pain, or wry amusement.
+- **Lunatic**: someone who behaves in a silly or dangerous way
+- **Deride**: express contempt for; ridicule.
+- **Loathing**: intense dilike/disgust; hatred
+- **Horde**: a large group of people.
+- **Wrench**: sudden violent twist or pull;distress caused by someone's departure.
+- **Flog**: beat.
+- **Stake**: wooden or metal post driven into the ground to support something.
+- **Ravish**: seize and carry off (someone) by force.
+- **Supple**: flexible
+- **Chastity**: the state or practice of refraining from extramarital, or especially from all, 
+- **Odious**: repulsive; extremely unpleasant.
+- **Flinch**: make a quick, nervous movement.
+- **Din**: a loud, unpleasant, and prolonged noise.
+- **Tremulous**: shaking slightly.
+- **Saviour**: a person who saves someone or something from danger or difficulty.
+- **Throbbing**: beating with a strong, regular rhythm; pulsating.
+- **Tom-Tom**: a medium-sized cylindrical dru.
+- **Entrails**: the innermost parts of something.
+- **Delirium**: wild excitement or ecstasy;a disturbed state of mind or consciousness
+- **Contempt**: the feeling that a person or a thing is worthless.
+- **Inscrutable**: impossible to understand.
+- **Sequel**: something that takes place after or as a result of an earlier event.
+- **Lavatory**: cubicle containing a toilet or toilets.
+- **Equivocal**: open to more than one interpretation; ambiguous.
+- **Belch**: emit wind noisily from the stomach through the mouth
+- **Musing**: a period of reflection or thought.
+- **Voluptous**: curvaceous; relating to or characterized by luxury or sensual pleasure.
+- **Twinge**: a sudden, sharp localized pain.
+- **Down with**: disapproval; to become ill with something
+- **Thumping**: pounding or throbbing in a heavy, continuous way.
+- **Wispy**: very thin and light
+- **Dreary**: depressingly dull.
+- **Whining**: the making of a long, high-pitched cry or sound.
+- **Discountenance**: refuse to approve of.
+- **Crease**: line/ridge formed on something.
+- **thereabouts**: near some place/date/number.
+- **Dingy**: gloomy and drab.
+- **Drab**: lacking brightness or interest; drearily dull.
+- **Trample**: tread on and crush.
+- **Battered**: injured by repeated blows or punishment.
+- **Reek**: smell strongly and unpleasantly; stink.
