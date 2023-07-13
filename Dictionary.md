@@ -1,4 +1,4 @@
-Collection of TnD I from regular internet surfing
+Collection of TnD I got from regular internet surfing
 
 - **Pensive**: engaged in, involving, or reflecting deep or serious thought
 - **Melancholy**: feeling of pensive sadness, typically with no obvious cause.
@@ -177,7 +177,7 @@ Collection of TnD I from regular internet surfing
 - **Stake**: wooden or metal post driven into the ground to support something.
 - **Ravish**: seize and carry off (someone) by force.
 - **Supple**: flexible
-- **Chastity**: the state or practice of refraining from extramarital, or especially from all, 
+- **Chastity**: the state or practice of refraining from extramarital, or especially from all, sexual intercourse. 
 - **Odious**: repulsive; extremely unpleasant.
 - **Flinch**: make a quick, nervous movement.
 - **Din**: a loud, unpleasant, and prolonged noise.
@@ -209,3 +209,19 @@ Collection of TnD I from regular internet surfing
 - **Trample**: tread on and crush.
 - **Battered**: injured by repeated blows or punishment.
 - **Reek**: smell strongly and unpleasantly; stink.
+- **Apprehensive**: anxious that something bad  will happen; relating to perception or understanding.
+- **Brim**: be full to the point of overflowing; edge. 
+- **Filthy**: disgustingly dirty.
+- **Imbecile**: stupid; idiotic.
+- **Drudge**: a person made to do hard menial work; 
+- **evict**: expel.
+- **Whiff**: a puff of air or smoke; get a faint smell. 
+- **Menacing**: threatening.
+- **Flit**: move swiftly and lightly.
+- **Clamour**: shout loudly and insistently.
+- **Agonizing**: causing great pain.
+- **Jab**: poke roughly/inject.
+- **spun**: past of spin.
+- **Bellow**: deep roaring sound.
+- **Relish**: enjoy
+- **Armamen**: weapons and equipment.
