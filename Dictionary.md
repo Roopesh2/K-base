@@ -224,4 +224,27 @@ Collection of TnD I got from regular internet surfing
 - **spun**: past of spin.
 - **Bellow**: deep roaring sound.
 - **Relish**: enjoy
-- **Armamen**: weapons and equipment.
+- **Armament**: weapons and equipment.
+- **Caper**: skip or dance about in a lively or playful way.
+- **Stagnant**: showing no activity; dull and sluggish.
+- **Rasping**: harsh-sounding and unpleasant.
+- **Gory**: involving or showing violence and bloodshed.
+- **Tis for thee**: it's for you
+- **Reverberate**: repeated several times as an echo.
+- **Fitful**: active or occurring spasmodically or intermittently; not regular or steady.
+- **Spasmodic**: occurring or done in brief, irregular bursts; convulsion.
+- **Dominion**: sovereignty or control.
+- **Myriad**: countless or extremely great in number.
+- **Grime***: very serious or gloomy.
+- **Quail**: feel or show fear or apprehension.
+- **Chime**: make melodious ringing sounds, typical for time.
+- **Entail**: involve (something) as a necessary or inevitable part or consequence. {It entail death}.
+- **Zealot**: a person who is fanatical and uncompromising in some ideals.
+- 
+
+
+
+
+
+
+
