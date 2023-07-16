@@ -85,7 +85,7 @@ Collection of TnD I got from regular internet surfing
 
 - **Nuzzle**: rub or push against gently with the nose and mouth.
 - **Vile**: extremely unpleasant.
-- **Grit**: firmness of mind or spirit.
+- **Grit**: firmness; harsh.
 - **Rugged**: having a broken, rocky, and uneven surface. ; strongly made and capable of withstanding rough handling.
 - **Contrived**: created or arranged in a way that seems artificial and unrealistic.
 - **Oblong**: a rectangular object or flat figure with unequal adjacent sides.
@@ -240,9 +240,7 @@ Collection of TnD I got from regular internet surfing
 - **Chime**: make melodious ringing sounds, typical for time.
 - **Entail**: involve (something) as a necessary or inevitable part or consequence. {It entail death}.
 - **Zealot**: a person who is fanatical and uncompromising in some ideals.
-- 
-
-
+- **Statuesque** :(of a woman) attractively tall, graceful, and dignified; reminiscent of a statue in size, posture, or stillness.
 
 
 
