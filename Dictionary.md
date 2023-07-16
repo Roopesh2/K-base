@@ -253,6 +253,7 @@ Collection of TnD I got from regular internet surfing
 - **Scrawny**: unattractively thin and bony; meagre or stunted.
 - **Whimper**: make a series of low, feeble sounds expressive of fear, pain, or unhappiness.
 - **Reek**: smell strongly and unpleasantly; stink. {it Reeked of gin}.
+- **Furtive**: attempting to avoid notice or attention, typically because of guilt or a belief that discovery would lead to trouble; secretive.
 
 
 
