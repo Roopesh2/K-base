@@ -241,7 +241,16 @@ Collection of TnD I got from regular internet surfing
 - **Entail**: involve (something) as a necessary or inevitable part or consequence. {It entail death}.
 - **Zealot**: a person who is fanatical and uncompromising in some ideals.
 - **Statuesque** :(of a woman) attractively tall, graceful, and dignified; reminiscent of a statue in size, posture, or stillness.
-
+- **Reproach**: express disapproval or disappointment.
+- **Conception**: an abstract idea.
+- **Fathom**: = 6ft. measure the depth of (water).
+- **Ragged**: irregular edge/surface.
+- **Splendid**: magnificent; very impressive.
+- **Dingy**: gloomy and drab.
+- **Shrewdness**: quality of having or showing good powers of judgement.
+- **Piercing**: having or showing shrewdness or keen intelligence.
+- **Sprang**: past tense of spring.
+- 
 
 
 
