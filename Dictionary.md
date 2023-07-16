@@ -250,7 +250,9 @@ Collection of TnD I got from regular internet surfing
 - **Shrewdness**: quality of having or showing good powers of judgement.
 - **Piercing**: having or showing shrewdness or keen intelligence.
 - **Sprang**: past tense of spring.
-- 
+- **Scrawny**: unattractively thin and bony; meagre or stunted.
+- **Whimper**: make a series of low, feeble sounds expressive of fear, pain, or unhappiness.
+- **Reek**: smell strongly and unpleasantly; stink. {it Reeked of gin}.
 
 
 
