@@ -254,6 +254,68 @@ Collection of TnD I got from regular internet surfing
 - **Whimper**: make a series of low, feeble sounds expressive of fear, pain, or unhappiness.
 - **Reek**: smell strongly and unpleasantly; stink. {it Reeked of gin}.
 - **Furtive**: attempting to avoid notice or attention, typically because of guilt or a belief that discovery would lead to trouble; secretive.
+- **Repudiate**: deny the truth or validity of.
+- **Loath**: reluctant; unwilling.{he loathed this}.
+- **Fabulous**: having no basis in reality; mythical; extraordinary.
+- **Gleaming**: (of a smooth surface) reflecting light, typically because very clean or polished.
+- **shrewish**: bad-tempered or aggressively assertive (typically used of a woman). {shrewish wife/voice)
+- **inscrutable**: impossible to understand or interpret.
+- **dismay**: concern and distress caused by something unexpected.
+- **indignation**: anger or annoyance provoked by what is perceived as unfair treatment.
+- **resentment**: bitter indignation at having been treated unfairly.
+- **pneumatic**: containing or operated by air or gas under pressure. (pneumatic tube).
+- **grating**: framework of parallel or crossed bars, typically preventing access through an opening while permitting communication or ventilation.
+- **recess**: small space created by building part of a wall further back from the rest.
+- **Jargon**: special words or expressions used by a profession or group that are difficult for others to understand.
+- **collate**: collect and combine.
+- **palimpsest**: something reused or altered but still bearing visible traces of its earlier form. { is a palimpsest of the }
+- **supersede**: take the place of (a person or thing previously in authority or use); supplant. { now been superseded}.
+- **prophecy**: a prediction of what will happen in the future. {a bleak prophecy of war }
+- **connexion**:  = connection. 
+- **garbled**: (of a message, sound, or transmission) confused and distorted; unclear.
+- **anthology**: a published collection of poems or other pieces of writing.
+- **treatise**: a written work dealing formally and systematically with a subject.
+- **multifarious**: many and of various types.
+- **proletariat**: working-class people regarded collectively (often used with reference to Marxism).
+- **disgrace**: loss of reputation or respect as the result of a { you disgraced the }
+- **crouch**: to bend knees and lower oneself to get close to the ground and leaning forward slightly.
+- **Subordinate**: a person under the authority; lower in rank.
+-  **Liberty**: the state of being free within society from oppressive restrictions imposed by authority.
+- **commemorate**: recall and show respect for {commemorating him}
+- **pedantic**: excessively concerned with minor details or rules; overscrupulous.
+- **despatch** = dispatch.
+- **celibacy**: the state of abstaining from marriage and sexual relations.
+- **protrude**: extend beyond. 
+- **protuberant**: protruding; bulging.
+- **mournful**: feeling, expressing, or inducing sadness, regret.
+- **derisive**: expressing contempt or ridicule. {derisive laugh}.
+- **scrounging**: seek to obtain (something, typically food or money) at the expense or through the generosity of others or by stealth.
+- **stealth**: cautious and surreptitious action or movement.
+- **gloating**: dwelling on one's own success or another's misfortune with smugness or malignant pleasure.
+- **smugness**: excessive pride in oneself or one's achievements.
+- **malignant**: evil in nature or effect.
+- **Reminiscently**: making someone remember a particular person, event, or thing.
+- **Apron**: kitchen/work wear
+- **Ladle**: large long-handled spoon with a cup-shaped bowl.
+- **pannikin**: a small pan or cup.
+- **Stew**: curry
+- **gabble**: talk rapidly and unintelligibly.
+- 
+
+
+
+
+
+- Occur: to happen, to take place unexpectedly. Incur: To acquire or come into (something usually undesirable) {Any extra cost will be incurred by the client.}
+
+- disposed of them
+- appearance of vomit.
+- 
+
+
+
+
+
 
 
 
