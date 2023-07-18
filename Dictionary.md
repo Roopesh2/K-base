@@ -300,6 +300,12 @@ Collection of TnD I got from regular internet surfing
 - **pannikin**: a small pan or cup.
 - **Stew**: curry
 - **gabble**: talk rapidly and unintelligibly.
+- **Stern**: strict and severe.
+- **Fulminating**: expressing vehement protest.
+- **Despise**: feel a strong dislike for someone or something that you think is bad or worthless. {He Despise him}.
+- **discretion**: the quality of behaving or speaking in such a way as to avoid causing offence or revealing confidential information.
+- **Aloofness**: a state of being distant, remote, or withdrawn.
+- **venerate**: regard with great respect; revere.
 - 
 
 
@@ -310,13 +316,3 @@ Collection of TnD I got from regular internet surfing
 
 - disposed of them
 - appearance of vomit.
-- 
-
-
-
-
-
-
-
-
-

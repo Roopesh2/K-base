@@ -1,1 +1,4 @@
-Who controls the present controls the past
+- Who controls the present controls the past
+- Orthodoxy is unconsciousness
+- DUCKSPEAK, to quack like a duck. It is one of those interesting words that have two contradictory meanings. Applied to an opponent, it is abuse, applied to someone you agree with, it is praise.
+- 
