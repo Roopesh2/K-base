@@ -67,3 +67,5 @@
 
 ## Chemistry
 - Adsorption: അധിശോഷണം
+## General
+- sensitivity: സംവേദനക്ഷമത
