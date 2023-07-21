@@ -180,3 +180,12 @@ for file in img*jpg; do
     i=$[$i+1]
 done
 ```
+
+* * *
+\newpage
+
+# Troubleshooting
+## Git
+### RPC failed; result=22, HTTP code = 408
+> `git config http.lowSpeedTime 600`
+> `git config http.postBuffer 524288000`
