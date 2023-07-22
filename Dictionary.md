@@ -306,9 +306,33 @@ Collection of TnD I got from regular internet surfing
 - **discretion**: the quality of behaving or speaking in such a way as to avoid causing offence or revealing confidential information.
 - **Aloofness**: a state of being distant, remote, or withdrawn.
 - **venerate**: regard with great respect; revere.
-- 
-
-
+- **pudgy**: rather fat {his pudgy fingers}.
+- **nudge**: coax or gently encourage (someone) to do something; touch or push (something) gently or gradually
+- **keenness**: the quality of being eager or enthusiastic; eagerness.
+- **lug**: carry or drag.
+- **whizz**: move quickly through the air with a whistling or buzzing sound.
+- **bosom**: very close or intimate; a woman's chest or breasts.
+- **carefree**: having no worries or troubles
+- **Scuttle**: run hurriedly or furtively with short quick steps.
+- **incredulous**:  unwilling or unable to believe something.
+- **Stow**: pack or store (an object) carefully and neatly.
+- **chuckle**: laugh quietly or inwardly.
+- **contort**: twist or bend out of the normal shape.
+- **fornication**: sexual intercourse between people not married to each other.
+- **consort**: habitually associate with (someone), typically with the disapproval of others.
+- **tacitly**: in a way that is understood or implied without being directly stated.
+- **debauchery**: excessive indulgence in sex, alcohol, or drugs.
+- **transient**: lasting only for a short time.
+- **promiscuous**: having or characterized by many transient sexual relationships.
+- **beget/begotten**: bring (something) into existence by the process of reproduction.
+- **wince**: make a slight involuntary grimace or shrinking movement of the body out of pain or distress.
+- **clasp**: grasp (something) tightly with one's hand.
+- **scuffle**: a short, confused fight or struggle at close quarters.
+- **cavern**: a large cave or chamber in a cave.
+- **conspire**: make secret plans jointly to commit an unlawful or harmful act.
+- **flimsy**: insubstantial and easily damaged.
+- **jostle**: push, elbow, or bump against (someone) roughly, typically in a crowd.
+- **flog**: beat (someone) with a whip or stick as a punishment.
 
 
 
