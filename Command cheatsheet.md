@@ -127,6 +127,9 @@ file 2.mp3 ....
 ## &nbsp;&nbsp; Add cover art
 > `ffmpeg -i i.mp3 -i cov.png -c copy -map 0 -map 1 o.mp3`
 
+## Extract subtitles
+> `ffmpeg -i i.mkv -c copy -map 0:s:0 s0.srt -c copy -map 0:s:1 s1.srt ...`
+
 
 # Pandoc
 

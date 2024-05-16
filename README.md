@@ -1,2 +1,2 @@
 # K-base
-Personal knowledge-base
+Not so actively maintained Personal knowledge-base
