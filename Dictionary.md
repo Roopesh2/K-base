@@ -333,10 +333,35 @@ Collection of TnD I got from regular internet surfing
 - **flimsy**: insubstantial and easily damaged.
 - **jostle**: push, elbow, or bump against (someone) roughly, typically in a crowd.
 - **flog**: beat (someone) with a whip or stick as a punishment.
+- **listlessness**: the state or condition of having little or no interest in anything. 
+- **slog**: work hard over a period of time; hit.
+- **dreary**: depressingly dull and bleak or repetitive.
+- **bruised**: hurt
+- **embezzlement**: theft or misappropriation of funds.
+- **intrigue**: make secret plans to do something illicit; arouse the curiosity or interest of; fascinate.
+- **abject**: completely without pride or dignity; self-abasing. {an abject apology}.
+- **tenement**: (especially in Scotland or the US) a room or a set of rooms forming a separate residence within a house or block of flats.
+- **bray**: speak or laugh loudly and harshly.
+- **jeering**: making rude and mocking remarks, typically in a loud voice
+- **shudder**: tremble convulsively
+- **stratum**: a layer or a series of layers of rock in the ground
+- **draught**: a current of cool air in a room or other confined space. 
+- **accord**: give or grant someone (power, status, or recognition); be harmonious or consistent with.
+- **truism**: a statement that is obviously true and says nothing new or interesting.
+- **waddle**: walk with short steps and a clumsy swaying motion.
+- **board up**: to cover a window, door, etc. with wooden boards.
+- **commotion**: a state of confused and noisy disturbance.
+- **anodyne**: a painkilling drug or medicine; not likely to cause offence or disagreement and somewhat dull.
+- **thoroughfare**:  main road in a town.
+- **pugnacious**: eager or quick to argue, quarrel, or fight.
+- **mellow**:  pleasantly smooth or soft; free from harshness; tempered by maturity or experience.
+- **avenue**: broad road/way of approaching problems or making progress
+- **invigorate**: give strength or energy to.
 
 
 
 - Occur: to happen, to take place unexpectedly. Incur: To acquire or come into (something usually undesirable) {Any extra cost will be incurred by the client.}
+- 
 
 - disposed of them
 - appearance of vomit.
